@@ -104,8 +104,8 @@ export default function ProductDetails({ cart, setCart }) {
         <div className="flex flex-col w-full p-10 text-center ">
           <div className="  h-[4px] min-w-[200px] bg-[black]"></div>
           <h1 className=" pt-4 text-3xl md:text-6xl font-bold text-center md:font-[900]">
-            {" "}
-            RELATIVE{" "}
+            
+            RELATIVE
             <span className=" pt-4 text-3xl md:text-6xl font-bold text-center md:font-[900] text-orange-500">
               FOOD
             </span>

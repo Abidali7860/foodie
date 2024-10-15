@@ -11,7 +11,7 @@ export default function Footer() {
         <div class="mx-auto w-full max-w-screen-xl p-4 py-6 lg:py-8">
           <div class="md:flex md:justify-between">
             <div class="mb-6 md:mb-0">
-              <a href="https://flowbite.com/" class="flex items-center">
+              <a href="" class="flex items-center">
                 <img
                   src="https://img.freepik.com/premium-photo/easy-view-banner-showcasing-pizza-momos-burger-fries-drinks_349936-1142.jpg"
                   class="rounded-[50%] h-8 me-3"
